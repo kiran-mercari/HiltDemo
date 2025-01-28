@@ -1,0 +1,57 @@
+# Built application files
+*.apk
+*.dex
+
+# Java class files
+*.class
+
+# Java .javadoc files
+*.jar
+*.war
+*.ear
+
+# Gradle files
+.gradle/
+*/build/
+**/build/
+**/captures/
+# Gradle wrapper files
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Local configuration file (SDK path, etc)
+local.properties
+
+# Android Studio navigation files
+.idea/
+*.iml
+
+# User-specific configurations
+*.hprof
+*.log
+*.xml
+.DS_Store
+
+# Coverage reports
+coverage/
+
+# External native build folder generated in Android Studio 2.x
+.externalNativeBuild/
+
+# Android Profiler
+.android/
+
+# Misc
+*.orig
+*.swp
+*.swo
+*~
+
+# Other files
+*.apk
+*.dex
+*.jks
+
+# Keystore files
+*.jks
+*.keystore
