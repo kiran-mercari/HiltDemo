@@ -9,6 +9,7 @@ This is a simple demo application demonstrating the usage of **Hilt** for depend
 - **Networking Example**: Implements a simple API call to fetch news articles and display them in a LazyColumn.
 
 ## Reference
+You can download or view the demo video [here](https://github.com/kiran-mercari/HiltDemo/blob/main/HiltWork_demo.webm).
 
 
 ## Architecture
